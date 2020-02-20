@@ -1,0 +1,102 @@
+.back {
+  font: 12pt;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+  color: brown !important;
+  font-weight: bold;
+}
+
+hr {
+  height: 3px;
+  background-color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer {
+  position: fixed;
+  display: inline-block;
+  bottom: 0px;
+  right: 25px;
+  text-align: right;
+  width: auto;
+}
+
+.navbar {
+  /* height: 85px; */
+}
+
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: white; */
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgba(0,0,0,.12);
+}
+
+li a:active {
+  background-color: rgba(0,0,0,.25);
+}
+
+div.sliding{
+  position: absolute;
+  top: 0;
+  left: -100vw;
+  width: 100%;
+  opacity: 0;
+  transform: translate(0);
+  transition: ease-in-out .5s;
+}
+
+div.sliding:target {
+  opacity: 1;
+  transform: translate(100vw,0);
+}
+
+#logo-fatec {
+  margin: -4px -6px -9px;
+  height: 46px;
+  filter: invert();
+}
+
+.section-tabela{
+  top: 100px;
+  bottom: 50px;
+}
+
+.section-tabela > table, th, td {
+  border: 1px solid ;
+}
+
+table td.numeric,
+table td.icone {
+  text-align: center;
+}
+
+.main {
+  position: relative;
+}
+
+.icone-bandeira {
+  width: 30px;
+}
