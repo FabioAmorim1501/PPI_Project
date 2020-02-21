@@ -49,116 +49,53 @@
             <td class="numeric">8.0</td>
           </tr>
         </table>
-        <table id="disciplinas">
-          <tr><th>Bandeira</th><th>País</th><th>Moeda</th></tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB9CAMAAAC4XpwXAAAAwFBMVEV1qtv////u7u5no9nm6e1uptqnx+fx8/T8v0nz9vf/y07u7Oq+nY6VUze8op67eiydVh+CMA/enzujXSHOjjV2AACxiHd7JQnq5eLf1dDTw761koiWTyy5ch6jXi33ukeFMACbXkGdZlPpqzzl7vjK2+y60+uHtd+QTDjQvLObTxG6mpP/0VCRRRi0cSmXXE6pWwDXli2XvePXx7qAIgCmdWPYiUTqembSji3wrEfppEfAY0DNeEK7Wj+ZYljimUW6Jii0AAACx0lEQVRoge2aW3OiMBSAabsaDnhBlEuICIgKXmpLvVR72f7/f7UJdnqZ7gvpypnt5HtAYUY/kpwcEuZoF5hoyq7syq7syq7syv6T7ZPprHl+ZtPJVzvMskZdZDP4bJ9pDa0+Gtrsoz27qtEtuMre7JDV2fATjQxe7Xf1y7n+7mRvYsi5vinsExw510+4HaXfS/vdhYbWdNF4bYpon2pNNDmPOy3Ds6O6FQqFQqE4L1eYaL++xeZ7P9cu5fBNcSQuER+mL/kvsnazJbz+jfCSllmzHRLK9TSmXE4TqM9edjawnH+bO3N+ljN4u35uO9n43EMChwGwW3FwAnHB3FTXS7TdHwe8rdRaUBgXY6ALi3c/BGOJ0JPp+WDLTGImdg7DdAh5kfAztg1q6Xkx5ts2hV0auiN95IbpDmh7y2QiTyrmzXYRd5YHI+6uurFxWHbioi016SrafROA8DkWr0JvnVq9656Vrr1wFfP5RwCqpp2KdrOVsICa0AkN2+vbURTZfc82wg6YNGBJ1bRTtecJzR0r2S092xroJwaW7S13ieXktGrgVR53cskWRXpYewPj1W4MvPUhLRaser6RiDqgeWikff2dfroKcyoR9BK5DgDc2LJ1/Xjk5oeHSLet2AURjue1E+LTORsPR91eFD0+Pu/1p+fnxyjqdUfDMZtTn1S7g0p2snF/x85tkeqra11/edqn+nG/f9Cj65WeFrdOfONWS/bybf8w7vW0/XQHb+MuvOVN1DTuJe8xf7y/vz+WMW/UFPOf5nskwr7G+Y6a63ieb+Hledxn3Ams53sJ6toGd13n3/x9TSvR9//dev7rXqZV317mBNo+rgR3D/uP9u+47y5w39soFAqFQvFTwa09QKr1ETSayDUnuPU2uLVGyHVWuDVmyPV1yLWFuHWV2DWlyPW0yLXEOCi7siu7siu7siv7z7P/AY/hi0ISQu9CAAAAAElFTkSuQmCC" alt="Argentina">
-            </td>
-            <td>Argentina</td>
-            <td>Peso argentino</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/206/206702.svg" alt="Bolívia">
-            </td>
-            <td>Bolívia</td>
-            <td>Boliviano</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330430.svg" alt="Brasil">
-            </td>
-            <td>Brasil</td>
-            <td>Real</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330554.svg" alt="Chile">
-            </td>
-            <td>Chile</td>
-            <td>Peso chileno</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330508.svg" alt="Colômbia">
-            </td>
-            <td>Colômbia</td>
-            <td>Peso colombiano</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330581.svg" alt="Equador">
-            </td>
-            <td>Equador</td>
-            <td>Dólar dos EUA</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/2000px-Flag_of_Guyana.svg.png" alt="Guiana">
-            </td>
-            <td>Guiana</td>
-            <td>Dólar da Guiana</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/321/321231.svg" alt="GuianaFrancesa">
-            </td>
-            <td>Guiana Francesa</td>
-            <td>Euro</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/630/630623.svg" alt="Paraguai">
-            </td>
-            <td>Paraguai</td>
-            <td>Guarani</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/321/321204.svg" alt="Peru">
-            </td>
-            <td>Peru</td>
-            <td>Novo sol</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330609.svg" alt="Suriname">
-            </td>
-            <td>Suriname</td>
-            <td>Dólar do Suriname</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330597.svg" alt="Uruguai">
-            </td>
-            <td>Uruguai</td>
-            <td>Peso uruguaio</td>
-          </tr>
-          <tr>
-            <td class="icone">
-              <img class="icone-bandeira" src="https://image.flaticon.com/icons/svg/330/330546.svg" alt="Venezuela">
-            </td>
-            <td>Venezuela</td>
-            <td>Bolívar Soberano / Petro</td>
-          </tr>
-        </table>
         <?php 
           $tables = file_get_contents("assets\json\data.json"); 
-          $tables = json_decode($tables);
+          $tables = json_decode($tables, true);
           foreach($tables as $table){
             ?>
             <table>
               <tr>
-                <th><?= var_dump($table) ?></th>
+                <?php 
+                  $titles = $table["titles"];
+                  foreach($titles as $title){
+                    ?>
+                    <th><?=$title?></th>
+                    <?php
+                  }?>
               </tr>
+              <?php
+              $data = $table["data"];
+              foreach($data as $infos){
+                ?>
+                <tr>
+                  <?php
+                    foreach($infos as $column_name => $column){
+                      $is_flag = $column_name == "flag-url";
+                      ?>
+                      <td class="<?=$is_flag?"icone":""?>">
+                        <?php
+                          if($is_flag){
+                            ?>
+                            <img class="icone-bandeira" src="<?=$column?>"/>
+                            <?php
+                          }else{
+                            echo $column;
+                          }?></td>
+                      <?php
+                    }
+                  ?>
+                </tr>
+                <?php
+              }
+              ?>
             </table>
             <?php
           }
         ?>
       </div>
       <div class="footer">
-        todos os direitos reservados
+        Todos os direitos reservados
       </div>
     </div>
   </div>
