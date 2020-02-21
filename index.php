@@ -25,8 +25,8 @@
           <li><div class="centralized centralized-v"><a href="#teste-padrao">Seção inicial</a></div></li>
           <li><div class="centralized centralized-v"><a href="#section-tabela">Seção tabela</a></div></li>
         </ul>
+        <hr>
       </nav>
-      <hr>
     </div>
     <div class="main">
       <div id="teste-padrao" class="sliding">
